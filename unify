@@ -1,1 +1,273 @@
 #this is the updated code 
+#CSS for nav bar with dropdown
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+body {
+	margin: 0;
+	background: white;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+  background: powderblue;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.logo {
+  padding: 10px 0;
+  float: left;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 1;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+nav a:hover {
+  color: #000;
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #444;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+nav ul li ul {
+  display: none;
+  position: absolute;
+  background-color: powderblue;
+  padding: 10px;
+  border-radius: 0px 0px 4px 4px;
+}
+
+nav ul li:hover ul {
+  display: block;
+}
+
+nav ul li ul li {
+  width: inherit;
+  border-radius: 4px;
+}
+#html for resources
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+  <header>
+      <div class="container">
+        <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+          <li><a href="unify.html">Home</a></li>
+          <li><a href="unifyResources.html">Resources</a>
+            <ul>
+              <li><a href="#rights">Your Rights</a></li>
+              <li><a href="#govresources">Government Resources</a></li>
+              <li><a href="#communityhelp">Community Help</a></li>
+              <li><a href="#citizenprocess">Citizenship</a></li>
+            </ul>
+          </li>
+          <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+          <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+          <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+          <li><a href="unifySources.html">Sources</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class = "content">
+    <u><h2 id="rights">Your Rights</h2></u>
+    <h3>Overview</h3>
+      <p>As you go through the process of transitioning into the United States as an immigrant there are rights that every person in the U.S has guaranteed under the U.S Constitution. You never know when you might come in contact with immigration or law enforcement; it's important to know and practice scenarios so that you, your friends and your family are prepared for any situation. Understanding you rights and how to respond in certain situations will help you to respond appropriately if you encounter police or immigration enforcement.</p>
+    <h3>Rights You Have</h3>
+      <ul>
+        <li>You have the right to remain silent and you DO NOT have to discuss your immigration or citizenship status with police, immigration agents, or other officials, as anything you tell an officer can later be used against you in immigration court.</li>
+        <li>If you are not a U.S Citizen and an immigration agent requests for your immigration papers you must show them if you have them with you.</li>
+        <li>If an immigration officer/agent asks if they can search you, you have the right to say no, as agents DO NOT have the right to search you or your belongings without your consent or probable cause.</li>
+        <li>If you're over 18, carry your papers with you at all times. If you don't have them and you're confronted by an officer tell them that you want to remain silent, or that you want to consult a lawyer before answering any questions.</li>
+        <li>If you need more information contact your local <a href = https://www.aclu.org/about/affiliates?redirect>ACLU affiliate.</a></li>
+      </ul>
+    <h3>What to do in Certain Scenarios</h3>
+      <ul>
+        <li>If you are stopped by law enforcement and told to identify yourself, you must provide your name, but you do not have to answer any other questions.</li>
+        <li>If you are driving and are pulled over, the officer can ask you to show your license, vehicle registration and proof of insurance -  all of which you are required to show - but you don't have to answer questions regarding your immigration status.</li>
+        <li>When entering or leaving the country, customs officers can ask about your immigration status. If you are a lawful permanent resident (LPR) who has maintained your status, you are only required to answer questions establishing your identity and permanent residency. If you refuse to answer other questions, it will likely cause delay, but officials may not deny you entry into the United States for failure to answer other questions. However if you are a non-citizen visa holder, you may be denied entry into the United States if you refuse to answer any other questions asked by officers.</li>
+      </ul>
+      <p>Find more information at the following websites.</p>
+      <ul>
+        <li><a href=https://www.aclu.org/know-your-rights/immigrants-rights/#law-enforcement-asks-about-my-immigration-status>ACLU website</a> - Know Your Rights & How to Act in Different Scenarios</li>
+        <li><a href=https://www.nilc.org/get-involved/community-education-resources/know-your-rights/>National Immigration Law Center</a> - Know Your Rights</li>
+      </ul>
+    <u><h2 id="govresources">Governmental Resources</h2></u>
+      <p>Although an undocumented immigration status can often be an obstacle in obtaining aid from the government, do not fret many options exist to assist your family. From nutrition programs, financial aid for students, and healthcare options it is possible to get help in the state of Washington without fear.</p>
+      <h3>Nutrition</h3>
+        <h4>Supplemental Nutrition Assistance Program (Food Stamps)</h4>
+          <p>SNAP is a program that provides nutritional assistance to families who can't afford big food budgets. The benefits can be used to purchase food in grocery stores, convenience stores, and some farmers markets and co-ops. Unfortunately undocumented citizens do not qualify for food stamps but if undocumented immigrants have children who are U.S. citizens then they are elegible to apply for assistance. Find more information at the link <a href=http://www.gettingfoodstamps.org/helpforimmigrants.html>here</a>.</p>
+        <h4>Women, Infants, and Children (WIC) Supplemental Nutrition Program</h4>
+          <p>Lastly, another great option for a specific group of people is WIC, they provide nutritional assistance to expecting mothers, new moms, or moms with children under 5. Find more information <a href=https://www.kingcounty.gov/depts/health/child-teen-health/women-infants-children.aspx>here</a>.</p>
+      <h3>Health</h3>
+        <p>Like SNAP undocumented immigrants unfortunately do not qualify for any federal assistance health programs, such as Medicaid or Medicare. Keep in mind that options do exist to help ease the cost of medical expenses for you.</p>
+        <h4>Emergency Medicaid</h4>
+          <p>Since hospitals are required to provide treatment to all patients who have acute medical emergencies, Emergency Medicaid exists. Only in the case of having to use Emergency Medicaid is Medicaid offered to those without citizenship. Find more information <a href=https://mymedicare.com/medicaid/emergency-medicaid/>here</a>.</p>
+        <h4>Community Health Centers</h4>
+          <p>Another option for when you are not experiencing emergency medical assistance is attending community health centers. Community health centers provide service to everyone whether you are insured or uninsured. Usually their rates are much cheaper than those found in normal clinics. Visit King County's page of community health centers to find one near you <a href=https://www.kingcounty.gov/depts/health/locations/community-health-centers.aspx>here</a>.</p>
+      <h3>Education</h3>
+        <p>Another barrier that many face is education, especially for undocumented children. To preface this any child no matter their immigration status can attend public schooling. Do not let immigration status deflect an opportunity at an education. As for post-secondary education DACA students have many options for applying to college, if they wish. Currently no federal legislation exists that stops undocumented immigrants from attending college. The big barrier for them is usually finding a way to pay for college. DACA students in Washington state have the option of applying to WAFSA, as FAFSA is not an option for undocumented students. WAFSA is a financial aid program that includes students who are not eligible for FAFSA due to immigration status. Find the WAFSA portal <a href=https://readysetgrad.wa.gov/wasfa>here</a>.</p>
+    <u><h2 id="communityhelp">Community Help</h2></u>
+    <u><h2 id="citizenprocess">Process to Citizenship</h2></u>
+      <p>To be completely sincere the process to citizenship and changing your immigration status is complicated and takes a lot of time (from multiple years and in some cases decades). Unfortunately our system is very broken and this complicates the process for so many people. Besides that, don't forget that it is possible and our goal is to educate on all the possible options one can take to change their immigration status.</p>
+      <h3>Obtaining a Green Card</h3>
+        <p>Some methods of obtaining a green card and their eligibility requirements can be found on the U.S. Citizenship and Immigration Services <a href=https://www.uscis.gov/greencard/eligibility-categories>(USCIS) website</a>.</p>
+        <p>Please keep in mind that every single case is unique and many different variables will transform the process and duration of becoming documented. The best option for figuring out your road to furthering your immigration status is to meet/have a consultation with an immigration lawyer or organization. At the bottom of this section we have included links to resources you can contact to find legal help.</p>
+      <h4><a href=https://www.nwirp.org/about-nwirp/mission-vision-values/>Northwest Immigrant Rights Project</a>:</h4>
+        <p>The Northwest Immigrant Rights Project is an organization that defends and advance the rights by providing legal service, systemic advocacy, and community education.</p>
+      <h4><a href=https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=WA>Washington Immigration Legal Services Directory</a>:</h4>
+      <p>The Washington Immigration Legal Services Directory is a directory of many different legal service organizations. Each office specializes in certain services such as type of immigration and type of service. This is a great resource when trying to figure out where to start to find help regarding your unique situation.</p>
+  </div>
+  </body>
+  </html>
+
+#html for homepage
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+        <li><a href="unify.html">Home</a></li>
+        <li><a href="unifyResources.html">Resources</a>
+          <ul>
+            <li><a href="#rights">Your Rights</a></li>
+            <li><a href="#govresources">Government Resources</a></li>
+            <li><a href="#communityhelp">Community Help</a></li>
+            <li><a href="#citizenprocess">Citizenship</a></li>
+          </ul>
+        </li>
+        <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+        <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+        <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+        <li><a href="unifySources.html">Sources</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+  <div class = "content">
+    <h2>Our Mission</h2>
+    <p>At Unify our mission is to provide equitable information access to all immigrants in their process of transitioning into living in the United States. We strive to create a centralized website that has links to resources and information on topics that relate to the situations of immigrants in the greater Seattle area. We also create a section for people who aren't immigrants so that they learn ways they can be involved and be a true ally to all immigrants. Under the current events section one can become informed on what is happening in our country regarding immigration, from legislation being passed to events happening around us. We are also aware of the stigma and stereotypes made about immigrants by those who hold prejudice, in an effort to  decrease that cultural divide and dismantle any discriminatory rhetoric we made the acknowledgments section to praise and give a platform to the stories and accomplishments of immigrants. The resources provided through Unify are not the only ones available. Feel free to contact the Unify Team if you have any questions or suggestions!</p>
+    <h2>About Us</h2>
+    <p>The Unify team consists of Arianna Montoya, Jasmin Chang, and Furtuna Tesfai. We are all a part of the Girls Who Code Summer Immersion Program at Amazon Seattle and chose to create Unify for our final project. Our project prompt was to think of a way that technology can be used to solve problems and influence the world around us. We needed to create a product for an intended audience and be able to plan, document, create, and pitch our idea in only two weeks. With a growing discussion about immigrants we felt using our knowledge to support an underprivileged community would not only make a good project but even make a real impact in our own community. Please contact us for any further questions about Unify or suggestions for our site, thank you!</p>
+  </div>
+  </body>
+  </html>
+
+#html for be an ally
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+        <li><a href="unify.html">Home</a></li>
+        <li><a href="unifyResources.html">Resources</a>
+          <ul>
+            <li><a href="#rights">Your Rights</a></li>
+            <li><a href="#govresources">Government Resources</a></li>
+            <li><a href="#communityhelp">Community Help</a></li>
+            <li><a href="#citizenprocess">Citizenship</a></li>
+          </ul>
+        </li>
+        <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+        <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+        <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+        <li><a href="unifySources.html">Sources</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+  <div class = "content">
+    <u><h2>How to be an Ally</h2></u>
+      <p>If you aren't an immigrant or refugee, you can support them as an ally. Being an ally can be represented in many forms, it all starts by taking action. The biggest part of being an ally is standing in solidarity with those who are oppressed, which means providing support, meeting needs, and being vocal but never taking over the narrative. There is a need for allies to speak out and most importantly to work with them as a team. As an ally you work towards the movement for immigration rights and to help end the fight that they have to face as immigrants and marginalized communities.</p>
+    <h4>Reach Out and Offer Support</h4>
+      <p>Currently it's a particularly scary time for your immigrant and refugee friends. Reach out to them to offer your support and a listening ear. If they need any form of assistance be there for them in any way you can.</p>
+    <h4>Learn</h4>
+      <p>Do research to get an understanding about what they're going through and what it takes to come to the US. In order for refugees to enter the U.S they are exhaustively vetted. When it comes to the immigration and the length and expense of the whole process makes it unattainable for some people who want and need it most. So it's important to learn about what it takes to come to the United States, and to learn about all the times that U.S banned immigrants to get a sense of what they are facing.</p>
+    <h4>Help Out</h4>
+      <p>Learn about and support resources in your community (such as volunteering and donating). Research for organizations in your area that advocate for refugees and immigrants, documented and un-documented. If you have the ability to do so, consider volunteering to reciprocate the support.</p>
+    <u><h2>Volunteer/Donate</h2></u>
+      <h3>Seattle DSA</h3>
+        <p>Seattle DSA works to create an environment of equal opportunities for everyone despite the labels put against them. Find their upcoming events <a href=https://seattledsa.org/events/>here</a>. Be a part of one of their meetings against ICE raids and work to help immigrants get the justice they deserve <a href=https://seattledsa.org/event/immigrant-justice-working-group-meeting-2/>here</a>.</p>
+      <h3>Refugee Women's Alliance</h3>
+          <p>ReWa is a non-profit organization that fosters the needs of multi-ethnic immigrants. You can help be a part of creating a positive experience for immigrants by volunteering with the ReWa organization.
+            Opportunities include:</p>
+          <ul>
+            <li>Help immigrants learn english by teaching an ESL classes <a href=https://www.rewa.org/wp-content/uploads/2019/04/ESL-Classroom-Assistant.pdf>here</a>.</li>
+            <li>Elementary Program Coordinator: Help refugee and immigrant elementary school students grades 1-5 learn by being their tutor or mentor <a href=https://www.rewa.org/wp-content/uploads/2019/04/LEVY-Volunteer-Description-2.pdf>here</a>.</li>
+          </ul>
+      <h3>Donate</h3>
+        <p>Not having time to volunteer is understandable, another form of help is donating to help refugees or families separated at the border.</p>
+        <a href=https://help.rescue.org/donate/help-separated-children?ms=gs_ppc_asylum_aid_es_180620&initialms=gs_ppc_asylum_aid_es_180620&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O3Y9pxMijpdGFqgK2_ZPmQrSy6wiml5z0ztJ-qNY6xT6S_iYyAsVhhoCfqQQAvD_BwE#webform-component-donation><p>International Rescue Committee</p></a>
+        <a href=https://support.crs.org/donate/share-journey?ms=agigoo0919rec00gen01&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O4-El0anZiZX4t7p5xCekhFnrpO49msamSTSjlp7NzDjhOZ0Cl-X9xoClrsQAvD_BwE><p>Catholic Relief Services</p></a>
+        <a href=https://www.unicefusa.org/u?utm_campaign=20190801_PillarPages&utm_medium=cpc&utm_source=google&utm_content=protection1responsive&ms=cpc_dig_2019_PillarPages_20190801_google_protection1responsive_delve_E2001&initialms=cpc_dig_2019_PillarPages_20190801_google_protection1responsive_delve_E2001&gclid=CjwKCAjwyqTqBRAyEiwA8K_4OxRbwZ7Wt13477v1QWM5ieB8GNI6aDpbXsB9lOdI-eNDMJLVvZxkCBoCpCQQAvD_BwE#relief><p>The United Nations Children's Fund (UNICEF)</p></a>
+        <a href=https://www.ilrc.org/donate-now><p>Immigrant Legal Resource Center (ILRC)</p></a>
+        <a href=https://www.americanimmigrationcouncil.org/donate><p>American Immigration Council</p></a>
+        <a href=https://secure.actblue.com/donate/kidsattheborder?refcode=tweet><p>Act Blue</p></a>
+
+  </div>
+  </body>
+  </html>

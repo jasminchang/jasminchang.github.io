@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Hammersmith+One|Playfair+Display|Prata&display=swap" rel="stylesheet">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+        <li><a href="unify.html">Home</a></li>
+        <li><a href="unifyResources.html">Resources</a>
+          <ul>
+            <li><a href="#rights">Your Rights</a></li>
+            <li><a href="#govresources">Government Resources</a></li>
+            <li><a href="#communityhelp">Community Help</a></li>
+            <li><a href="#citizenprocess">Citizenship</a></li>
+          </ul>
+        </li>
+        <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+        <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+        <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+        <li><a href="unifySources.html">Sources</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+  <div class = "content">
+    <u><h2>How to be an Ally</h2></u>
+      <p>If you aren't an immigrant or refugee, you can support them as an ally. Being an ally can be represented in many forms, it all starts by taking action. The biggest part of being an ally is standing in solidarity with those who are oppressed, which means providing support, meeting needs, and being vocal but never taking over the narrative. There is a need for allies to speak out and most importantly to work with them as a team. As an ally you work towards the movement for immigration rights and to help end the fight that they have to face as immigrants and marginalized communities.</p>
+    <h4>Reach Out and Offer Support</h4>
+      <p>Currently it's a particularly scary time for your immigrant and refugee friends. Reach out to them to offer your support and a listening ear. If they need any form of assistance be there for them in any way you can.</p>
+    <h4>Learn</h4>
+      <p>Do research to get an understanding about what they're going through and what it takes to come to the US. In order for refugees to enter the U.S they are exhaustively vetted. When it comes to the immigration and the length and expense of the whole process makes it unattainable for some people who want and need it most. So it's important to learn about what it takes to come to the United States, and to learn about all the times that U.S banned immigrants to get a sense of what they are facing.</p>
+    <h4>Help Out</h4>
+      <p>Learn about and support resources in your community (such as volunteering and donating). Research for organizations in your area that advocate for refugees and immigrants, documented and un-documented. If you have the ability to do so, consider volunteering to reciprocate the support.</p>
+    <u><h2>Volunteer/Donate</h2></u>
+      <h3>Seattle DSA</h3>
+        <p>Seattle DSA works to create an environment of equal opportunities for everyone despite the labels put against them. Find their upcoming events <a href=https://seattledsa.org/events/>here</a>. Be a part of one of their meetings against ICE raids and work to help immigrants get the justice they deserve <a href=https://seattledsa.org/event/immigrant-justice-working-group-meeting-2/>here</a>.</p>
+      <h3>Refugee Women's Alliance</h3>
+          <p>ReWa is a non-profit organization that fosters the needs of multi-ethnic immigrants. You can help be a part of creating a positive experience for immigrants by volunteering with the ReWa organization.
+            Opportunities include:</p>
+          <ul>
+            <li>Help immigrants learn english by teaching an ESL classes <a href=https://www.rewa.org/wp-content/uploads/2019/04/ESL-Classroom-Assistant.pdf>here</a>.</li>
+            <li>Elementary Program Coordinator: Help refugee and immigrant elementary school students grades 1-5 learn by being their tutor or mentor <a href=https://www.rewa.org/wp-content/uploads/2019/04/LEVY-Volunteer-Description-2.pdf>here</a>.</li>
+          </ul>
+      <h3>Donate</h3>
+        <p>Not having time to volunteer is understandable, another form of help is donating to help refugees or families separated at the border.</p>
+        <a href=https://help.rescue.org/donate/help-separated-children?ms=gs_ppc_asylum_aid_es_180620&initialms=gs_ppc_asylum_aid_es_180620&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O3Y9pxMijpdGFqgK2_ZPmQrSy6wiml5z0ztJ-qNY6xT6S_iYyAsVhhoCfqQQAvD_BwE#webform-component-donation><p>International Rescue Committee</p></a>
+        <a href=https://support.crs.org/donate/share-journey?ms=agigoo0919rec00gen01&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O4-El0anZiZX4t7p5xCekhFnrpO49msamSTSjlp7NzDjhOZ0Cl-X9xoClrsQAvD_BwE><p>Catholic Relief Services</p></a>
+        <a href=https://www.unicefusa.org/u?utm_campaign=20190801_PillarPages&utm_medium=cpc&utm_source=google&utm_content=protection1responsive&ms=cpc_dig_2019_PillarPages_20190801_google_protection1responsive_delve_E2001&initialms=cpc_dig_2019_PillarPages_20190801_google_protection1responsive_delve_E2001&gclid=CjwKCAjwyqTqBRAyEiwA8K_4OxRbwZ7Wt13477v1QWM5ieB8GNI6aDpbXsB9lOdI-eNDMJLVvZxkCBoCpCQQAvD_BwE#relief><p>The United Nations Children's Fund (UNICEF)</p></a>
+        <a href=https://www.ilrc.org/donate-now><p>Immigrant Legal Resource Center (ILRC)</p></a>
+        <a href=https://www.americanimmigrationcouncil.org/donate><p>American Immigration Council</p></a>
+        <a href=https://secure.actblue.com/donate/kidsattheborder?refcode=tweet><p>Act Blue</p></a>
+
+  </div>
+  </body>
+  </html>

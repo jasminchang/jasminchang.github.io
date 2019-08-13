@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Hammersmith+One|Playfair+Display|Prata&display=swap" rel="stylesheet">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+        <li><a href="unify.html">Home</a></li>
+        <li><a href="unifyResources.html">Resources</a>
+          <ul>
+            <li><a href="#rights">Your Rights</a></li>
+            <li><a href="#govresources">Government Resources</a></li>
+            <li><a href="#communityhelp">Community Help</a></li>
+            <li><a href="#citizenprocess">Citizenship</a></li>
+          </ul>
+        </li>
+        <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+        <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+        <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+        <li><a href="unifySources.html">Sources</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+  <div class = "content">
+    <u><h2>Sources</h2></u>
+      <p>This entire website took lots of hours of research as we wanted to make sure the information we would be displaying for our audience was accurate, reliable, and useful. This website is an amazing resource for immigrants and we would like to credit all the incredible places where we found all of our information below. Thank You!</p>
+      <ul>
+        <li>"Affiliates."" American Civil Liberties Union, www.aclu.org/about/affiliates?redirect=affiliates.</li>
+        <li>"A Better World for Children Starts with u."" UNICEF USA, www.unicefusa.org/u?utm_campaign=20190801_PillarPages&utm_medium=cpc&utm_source=google&utm_content=protection1responsive&ms=cpc_dig_2019
+          _PillarPages_20190801_google_protection1responsive_delve_E2001&initialms=cpc_dig_2019_PillarPages_20190801_google_protection1
+          responsive_delve_E2001&gclid=CjwKCAjwyqTqBRAyEiwA8K_4OxRbwZ7Wt13477v1QWM5ieB8GNI6aDpbXsB9lOdI-eNDMJLVvZxkCBoCpCQQAvD_BwE#relief.</li>
+        <li>Bray, Ilona, and J.d. "Legal Options for an Undocumented (Illegal) Immigrant to Stay in the U.S."" Www.alllaw.com, Nolo, 25 Apr. 2019, www.alllaw.com/articles/nolo/us-immigration/legal-options-undocumented-illegal-immigrant-stay.html.</li>
+        <li>CLINIC E-Learning Site: Log in to the Site, elearning-cliniclegal.org/login/index.php.</li>
+        <li>"Community Health Centers." Community Health Centers - King County, www.kingcounty.gov/depts/health/locations/community-health-centers.aspx.</li>
+        <li>"Donate Now." ILRC, www.ilrc.org/donate-now.</li>
+        <li>"Emergency Medicaid." MyMedicare.com, mymedicare.com/medicaid/emergency-medicaid/.</li>
+        <li>"Events Archive." Seattle Democratic Socialists of America, seattledsa.org/events/.</li>
+        <li>"Fact Sheet: Immigrants and Public Benefits." National Immigration Forum, 21 Aug. 2018, immigrationforum.org/article/fact-sheet-immigrants-and-public-benefits/.</li>
+        <li>Gaillot, Ann-Derrick. "How To Be An Ally To Immigrants &amp; Refugees." Bustle, 12 June 2019, www.bustle.com/p/how-to-be-ally-to-the-refugees-immigrants-in-your-life-34118.</li>
+        <li>"Help for Immigrants." Help for Immigrants | Www.gettingsnap.org, www.gettingfoodstamps.org/helpforimmigrants.html.</li>
+        <li>"Help Kids at the Border." ActBlue, secure.actblue.com/donate/kidsattheborder?refcode=tweet.</li>
+        <li>"Help Kids at the Border." ActBlue, secure.actblue.com/donate/kidsattheborder?refcode=tweet.</li>
+        <li>"How You Can Be an Immigrant Ally Locally." Indivisible, 21 Dec. 2018, indivisible.org/resource/how-you-can-be-immigrant-ally-locally.</li>
+        <li>"Immigrant Justice Working Group Meeting." Seattle Democratic Socialists of America, seattledsa.org/event/immigrant-justice-working-group-meeting-2/.</li>
+        <li>"Immigrants' Rights." Know Your Rights | American Civil Liberties Union, www.aclu.org/know-your-rights/immigrants-rights/#law-enforcement-asks-about-my-immigration-status.</li>
+        <li>"Know Your Rights." National Immigration Law Center, www.nilc.org/get-involved/community-education-resources/know-your-rights/.</li>
+        <li>"Mission, Vision, Values." Northwest Immigrant Rights, www.nwirp.org/about-nwirp/mission-vision-values/.</li>
+        <li>"My Immigration Story." My Immigration Story, myimmigrationstory.com/.</li>
+        <li>"Other Ways to Give." American Immigration Council, www.americanimmigrationcouncil.org/donate.</li>
+        <li>"Separated Families Need Help Now!" International Rescue Committee, help.rescue.org/donate/help-separated-children?ms=gs_ppc_asylum_aid_es_180620&initialms=gs_ppc_asylum_aid_es_180620&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O3Y9px
+          MijpdGFqgK2_ZPmQrSy6wiml5z0ztJ-qNY6xT6S_iYyAsVhhoCfqQQAvD_BwE#webform-component-donation.</li>
+        <li>"Share the Journey - Donate to Refugees." Catholic Relief Services, support.crs.org/donate/share-journey?ms=agigoo0919rec00gen01&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O4-El0anZiZX4t7p5xCekhFnrpO49msamSTSjlp7NzDjhOZ0Cl-X9xoClrsQAvD_BwE.</li>
+        <li>"Tips on How to Be a Better Ally for the Immigrants' Rights Cause." National Immigration Law Center, www.nilc.org/news/the-torch/12-8-17/.</li>
+        <li>"Undocumented Students." SBCTC, www.sbctc.edu/paying-for-college/undocumented-students.aspx.</li>
+        <li>"Washington Organizations - ImmigrationLawHelp.org: Helping Low-Income Immigrants Find Legal Help." ImmigrationLawHelp.org | Helping Low-Income Immigrants Find Legal Help, www.immigrationlawhelp.org/search?state=WA.</li>
+        <li>"Washington Organizations - National Immigration Legal Services Directory - Nonprofit Resource Center." a Project of Immigration Advocates Network, www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=WA.</li>
+        <li>"Women, Infants and Children (WIC) Supplemental Nutrition Program." Women, Infants and Children (WIC) Supplemental Nutrition Program - King County, www.kingcounty.gov/depts/health/child-teen-health/women-infants-children.aspx.</li>
+        <li>Writers, Guest. "8 People Share Their Immigration Stories." Man Repeller, 9 Aug. 2018, www.manrepeller.com/2018/01/immigration-stories.html.</li>
+      </ul>
+  </div>
+  </body>
+  </html>

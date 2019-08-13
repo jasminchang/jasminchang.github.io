@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Hammersmith+One|Playfair+Display|Prata&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+        <li><a href="unify.html">Home</a></li>
+        <li><a href="unifyResources.html">Resources</a>
+          <ul>
+            <li><a href="#rights">Your Rights</a></li>
+            <li><a href="#govresources">Government Resources</a></li>
+            <li><a href="#communityhelp">Community Help</a></li>
+            <li><a href="#citizenprocess">Citizenship</a></li>
+          </ul>
+        </li>
+        <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+        <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+        <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+        <li><a href="unifySources.html">Sources</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+  <div class = "content">
+    <h2>Our Mission</h2>
+    <p>At Unify our mission is to provide equitable information access to all immigrants in their process of transitioning into living in the United States. We strive to create a centralized website that has links to resources and information on topics that relate to the situations of immigrants in the greater Seattle area. We also create a section for people who aren't immigrants so that they learn ways they can be involved and be a true ally to all immigrants. Under the current events section one can become informed on what is happening in our country regarding immigration, from legislation being passed to events happening around us. We are also aware of the stigma and stereotypes made about immigrants by those who hold prejudice, in an effort to  decrease that cultural divide and dismantle any discriminatory rhetoric we made the acknowledgments section to praise and give a platform to the stories and accomplishments of immigrants. The resources provided through Unify are not the only ones available. Feel free to contact the Unify Team if you have any questions or suggestions!</p>
+    <h2>About Us</h2>
+    <p>The Unify team consists of Arianna Montoya, Jasmin Chang, and Furtuna Tesfai. We are all a part of the Girls Who Code Summer Immersion Program at Amazon Seattle and chose to create Unify for our final project. Our project prompt was to think of a way that technology can be used to solve problems and influence the world around us. We needed to create a product for an intended audience and be able to plan, document, create, and pitch our idea in only two weeks. With a growing discussion about immigrants we felt using our knowledge to support an underprivileged community would not only make a good project but even make a real impact in our own community. Please contact us for any further questions about Unify or suggestions for our site, thank you!</p>
+    <div class="row">
+      <div class="column">
+        <img src="file:///C:/Users/Vanilla/Documents/GWC%20final/arianna.jpg" alt="Arianna" style="width:250px;height:375px;"/>
+        <div class="caption">Arianna Montoya</div>
+        <a href="https://www.linkedin.com/in/arianna-montoya" class="fa fa-linkedin"></a>
+        <a href="mailto:arianna.mont.am@gmail.com?subject=feedback" class="fa fa-google"></a>
+      </div>
+      <div class="column">
+        <img src="file:///C:/Users/Vanilla/Documents/GWC%20final/jasmin.JPG" alt="Jasmin" style="width:250px;height:375px;"/>
+        <div class="caption">Jasmin Chang</div>
+        <a href="https://www.linkedin.com/in/jasmin-chang-266571190" class="fa fa-linkedin"></a>
+        <a href="mailto:jasmiinchang@gmail.com?subject=feedback" class="fa fa-google"></a>
+      </div>
+      <div class="column">
+        <img src="file:///C:/Users/Vanilla/Documents/GWC%20final/furtuna.JPG" alt="Furtuna" style="width:250px;height:375px;"/>
+        <div class="caption">Furtuna Tesfai</div>
+        <a href="https://www.linkedin.com/in/furtuna-tesfai-57a269182" class="fa fa-linkedin"></a>
+        <a href="mailto:tesfaifur@gmail.com?subject=feedback" class="fa fa-google"></a>
+      </div>
+    </div>
+  </div>
+  </body>
+  </html>

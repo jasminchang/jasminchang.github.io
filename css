@@ -219,6 +219,7 @@ nav ul li ul li {
 }
 
 .poem{
+  margin: 2px 400px 2px 300px;
   text-align: center;
 }
 
@@ -227,4 +228,8 @@ padding: 15px;
 background: lavender;
 background-clip:15px content-box;
 text-align: center;
+font-family: 'Prata', serif;
+letter-spacing: 2px;
+font-size: 20px;
+font-weight: bold;
 }

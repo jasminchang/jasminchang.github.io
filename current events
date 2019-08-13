@@ -28,69 +28,132 @@
   </div>
 </header>
 <div class="content">
-  <u><h1>Current Events</h1></u>
-  <p> With the current political climate in the United States, immigrants and marginalized communities have been extremely prevalent in today's media. Many of the events being currently publicized by mass media regard immigrants. We found that it was important to provide a section that would expose and educate our audience to what is going on in our country. People can find short previews and links to articles/news pages regarding the United States' current immigration situation.</p>
-<div class="currenteventcontent">
-  <div class = "one">
-    <h3><left><img src="https://cdn.cnn.com/cnnnext/dam/assets/190715150152-01-us-mexico-border-0628-exlarge-169.jpg" width=400 height=250></left></h3>
-    <h2><u><left>ICE Ramps up DNA Testing For Migrant Families Along the Southern Border : </left></u></h2>
-    <h3><left>"Immigration and Customs Enforcement has begun using DNA testing at seven locations along the southern border to identify individuals who pose as families,
-      the agency said Monday. The implementation of DNA testing alone parts of the US-Mexico border is part of a concerted effort by the Trump administration to crack
-      down on illegal immigration, as the number of apprehensions at the border continue to outpace recent years.
-      The DNA testing, in particular, takes direct aim at individuals posing as families amin the increase in families at the border.
-      The administration has argued that people are using children to get into the US, knowing they'll be released." <a href="https://www.cnn.com/2019/07/22/politics/ice-deploys-dna-testing-at-border/index.html"> [ ... ]</a></h3>
-  </div>
-<hr>
-  <div class="two">
-    <h3><right><img src="https://amgreatness.com/wp-content/uploads/2018/10/20181025msvdh-a-1024x576.jpg" width=400 height=250></right></h3>
-    <h2><u><right>Trump Administration Moves to End Asylum Protections For Most Central American Migrants :</right></u></h2>
-    <h3> "The Trump administration announced Monday it will move to end asylum protections for most Central American migrants in the government's
-      latest major attempt to restrict the influx of migrant families coming to the United States.
-      The new rule says asylum-seekers at the southern border who pass through another country and do not seek asylum there will not be eligible for the protection in the U.S.,
-      according to a statement from the departments of Justice and Homeland Security." <a href="https://www.nbcnews.com/news/us-news/trump-administration-moves-end-asylum-protections-most-central-american-migrants-n1029866">[ ... ]</a></h3>
-  </div>
-<hr>
-  <div class="three">
-    <h3><left><img src="http://static1.squarespace.com/static/506c8ea1e4b01d9450dd53f5/557cbb32e4b0e197d11d065d/5d419ed53d74b700016678b7/1564582411268/GettyImages-1155271557-Justin+Sullivan.jpg?format=1500w" width=400 height=250></left></h3>
-    <h2><u><left>Trump Officials Argued Over Asylum Deal With Guatemala. Now Both Countries Must Make It Work :</left></u></h2>
-    <h3><left> "President Trump struck an agreement last week to require thousands of Central American migrants to seek asylum in Guatemala before coming to the United States. But the White House ceremony to hail what the president called a
-      "landmark" measure - one that could transform the American immigration system - almost did not happen. Just two hours earlier, Secretary of State Mike Pompeo had criticized the agreement in a closed-door meeting with Mr. Trump and Kevin K.
-      McAleenan, the acting secretary of homeland security and several other aides, according to three senior administration officials briefed on a debate that ensued in the Oval Office." <a href="https://www.nytimes.com/2019/08/02/us/politics/safe-third-guatemala.html?rref=collection%2Ftimestopic%2FImmigration%20and%20Emigration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=21&pgtype=collection">[ ... ]</a></left></h3>
-  </div>
-<hr>
-  <div class="four">
-    <h3><right><img src="https://ichef.bbci.co.uk/images/ic/720x405/p076syp5.jpg" width=400 height=250></right></h3>
-    <h2><u><right>Trying to Understand the Daily Strain a Deportation Puts on a Family :</right></u></h2>
-    <h3><right> This article gives you an understanding of the fear that is an immigrant's reality of never knowing when they might be deported
-      or separated from their family and friends.
-      <br>
-      <br>
-      "When I met Fanny, it was almost by accident. On a trip to Atlanta to write about a surge in immigration arrests in the surrounding suburbs in 2017, I'd heard about a woman,
-      Rosario, who was in danger of being deported. She was a janitor and pizza-parlor waitress from Mexico, and she was hoping that being the single mother of an American Citizen - her 12-year-old daughter, Fanny - would be enough to keep her in the country."
-      <a href="https://www.nytimes.com/2019/08/03/reader-center/deportation-atlanta-family-fanny-rosario.html?rref=collection%2Ftimestopic%2FIllegal%20Immigration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=4&pgtype=collection">[ ... ] </a></right></h3>
-  </div>
+   <u><h2>Current Events</h2></u>
+    <p> With the current political climate in the United States, immigrants and marginalized communities have been extremely prevalent in today's media. Many of the events being currently publicized by mass media regard immigrants. We found that it was important to provide a section that would expose and educate our audience to what is going on in our country. People can find short previews and links to articles/news pages regarding the United States' current immigration situation.</p>
+  <div class="currenteventcontent">
+    <div class = "one">
+      <h3><left><img src="https://cdn.cnn.com/cnnnext/dam/assets/190715150152-01-us-mexico-border-0628-exlarge-169.jpg" width=400 height=250></left></h3>
+      <h2><u><left>ICE Ramps up DNA Testing For Migrant Families Along the Southern Border : </left></u></h2>
+      <p><left>"Immigration and Customs Enforcement has begun using DNA testing at seven locations along the southern border to identify individuals who pose as families,
+        the agency said Monday. The implementation of DNA testing alone parts of the US-Mexico border is part of a concerted effort by the Trump administration to crack
+        down on illegal immigration, as the number of apprehensions at the border continue to outpace recent years.
+        The DNA testing, in particular, takes direct aim at individuals posing as families amin the increase in families at the border.
+        The administration has argued that people are using children to get into the US, knowing they'll be released." <a href="https://www.cnn.com/2019/07/22/politics/ice-deploys-dna-testing-at-border/index.html"> [ ... ]</a></p>
+    </div>
   <hr>
-  <div class="five">
-    <h3><left><img src="https://img.buzzfeed.com/buzzfeed-static/static/2019-08/6/17/asset/a8237e93749a/sub-buzz-4376-1565110927-1.png?downsize=700%3A%2A&output-quality=auto&output-format=auto" width=400 height=250></left></<h3>
-    <h2><u><left>More Than 100 Immigrants Were Pepper-Sprayed at an ICE Facility :</left></u></h2>
-    <h3><left> "The detainees were pepper=sprayed at the ICE Processing Center in Pine Prarie on Saturday, just a day after guards pepper-sprayed more than
-      30 immigrant detainees at a separate facility in rural Louisiana.
-      <br>
-      The incident in Pine Prairie was not publicly disclosed.
-      <br>
-      The inmates at Pine Prairie - where more than 1,000 ICE detainees can be held at a time - were pepper-sprayed after they demonstrated in the center's yard, the source said. The inmates were then taken to a separate part of the facility to be decontaminated." <a href="https://www.buzzfeednews.com/article/hamedaleaziz/ice-immigrants-pepper-sprayed-louisiana-pine-prairie"> [ ... ]</a></left></h3>
-  </div>
+    <div class="two">
+      <h3><right><img src="https://amgreatness.com/wp-content/uploads/2018/10/20181025msvdh-a-1024x576.jpg" width=400 height=250></right></h3>
+      <h2><u><right>Trump Administration Moves to End Asylum Protections For Most Central American Migrants :</right></u></h2>
+      <p> "The Trump administration announced Monday it will move to end asylum protections for most Central American migrants in the government's
+        latest major attempt to restrict the influx of migrant families coming to the United States.
+        The new rule says asylum-seekers at the southern border who pass through another country and do not seek asylum there will not be eligible for the protection in the U.S.,
+        according to a statement from the departments of Justice and Homeland Security." <a href="https://www.nbcnews.com/news/us-news/trump-administration-moves-end-asylum-protections-most-central-american-migrants-n1029866">[ ... ]</a></p>
+    </div>
   <hr>
-  <div class="six">
-    <h3><right><img src="https://static01.nyt.com/images/2019/08/06/us/06latino-anxiety-01alt/06latino-anxiety-01alt-articleLarge.jpg?quality=75&auto=webp&disable=upscale" width=400 height=250></right></h3>
-    <h2><u><right>'It Feels Like Being Hunted':Latinos Across U.S in Fear AFter El Paso Massacre :</right></u></h2>
-    <h3><right> "EL PASO - After 22 people were shot to death at a Walmart in EL Paso over the weekend, a Florida retiree found herself
-      imagining how her grandchildren could be killed. A daughter of Ecuadorean immigrants cried alone in her car. A Texas lawyer bought a gun to defend his family.
-      For a number of Latinos across the United States, the shooting attack in El Paso felt like a turning point, calling into question everything they thought they knew about their place in American society.
-      Whether they are liberal or conservative, speakers of English or Spanish, recent immigrants or descenants or pioneers who put down stakes in the Southwest 400 years ago,
-       many Latinos in interviews this week said they felt deeply shaken at the idea that radicalized white nationalism seemed to have placed them - at east for one bloody weekend - in its cross hairs." <a href="https://www.nytimes.com/2019/08/06/us/el-paso-shooting-latino-anxiety.html"> [ ... ]</a></right></h3>
-  </div>
+    <div class="three">
+      <h3><left><img src="http://static1.squarespace.com/static/506c8ea1e4b01d9450dd53f5/557cbb32e4b0e197d11d065d/5d419ed53d74b700016678b7/1564582411268/GettyImages-1155271557-Justin+Sullivan.jpg?format=1500w" width=400 height=250></left></h3>
+      <h2><u><left>Trump Officials Argued Over Asylum Deal With Guatemala. Now Both Countries Must Make It Work :</left></u></h2>
+      <p><left> "President Trump struck an agreement last week to require thousands of Central American migrants to seek asylum in Guatemala before coming to the United States. But the White House ceremony to hail what the president called a
+        "landmark" measure - one that could transform the American immigration system - almost did not happen. Just two hours earlier, Secretary of State Mike Pompeo had criticized the agreement in a closed-door meeting with Mr. Trump and Kevin K.
+        McAleenan, the acting secretary of homeland security and several other aides, according to three senior administration officials briefed on a debate that ensued in the Oval Office." <a href="https://www.nytimes.com/2019/08/02/us/politics/safe-third-guatemala.html?rref=collection%2Ftimestopic%2FImmigration%20and%20Emigration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=21&pgtype=collection">[ ... ]</a></left></p>
+    </div>
   <hr>
+    <div class="four">
+      <h3><right><img src="https://ichef.bbci.co.uk/images/ic/720x405/p076syp5.jpg" width=400 height=250></right></h3>
+      <h2><u><right>Trying to Understand the Daily Strain a Deportation Puts on a Family :</right></u></h2>
+      <p><right> This article gives you an understanding of the fear that is an immigrant's reality of never knowing when they might be deported
+        or separated from their family and friends.
+        <br>
+        <br>
+        "When I met Fanny, it was almost by accident. On a trip to Atlanta to write about a surge in immigration arrests in the surrounding suburbs in 2017, I'd heard about a woman,
+        Rosario, who was in danger of being deported. She was a janitor and pizza-parlor waitress from Mexico, and she was hoping that being the single mother of an American Citizen - her 12-year-old daughter, Fanny - would be enough to keep her in the country."
+        <a href="https://www.nytimes.com/2019/08/03/reader-center/deportation-atlanta-family-fanny-rosario.html?rref=collection%2Ftimestopic%2FIllegal%20Immigration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=4&pgtype=collection">[ ... ] </a></right></p>
+    </div>
+    <hr>
+    <div class="five">
+      <h3><left><img src="https://img.buzzfeed.com/buzzfeed-static/static/2019-08/6/17/asset/a8237e93749a/sub-buzz-4376-1565110927-1.png?downsize=700%3A%2A&output-quality=auto&output-format=auto" width=400 height=250></left></<h3>
+      <h2><u><left>More Than 100 Immigrants Were Pepper-Sprayed at an ICE Facility :</left></u></h2>
+      <p><left> "The detainees were pepper=sprayed at the ICE Processing Center in Pine Prarie on Saturday, just a day after guards pepper-sprayed more than
+        30 immigrant detainees at a separate facility in rural Louisiana.
+        <br>
+        The incident in Pine Prairie was not publicly disclosed.
+        <br>
+        The inmates at Pine Prairie - where more than 1,000 ICE detainees can be held at a time - were pepper-sprayed after they demonstrated in the center's yard, the source said. The inmates were then taken to a separate part of the facility to be decontaminated." <a href="https://www.buzzfeednews.com/article/hamedaleaziz/ice-immigrants-pepper-sprayed-louisiana-pine-prairie"> [ ... ]</a></left></p>
+    </div>
+    <hr>
+    <div class="six">
+      <h3><right><img src="https://static01.nyt.com/images/2019/08/06/us/06latino-anxiety-01alt/06latino-anxiety-01alt-articleLarge.jpg?quality=75&auto=webp&disable=upscale" width=400 height=250></right></h3>
+      <h2><u><right>'It Feels Like Being Hunted':Latinos Across U.S in Fear AFter El Paso Massacre :</right></u></h2>
+      <p><right> "EL PASO - After 22 people were shot to death at a Walmart in EL Paso over the weekend, a Florida retiree found herself
+        imagining how her grandchildren could be killed. A daughter of Ecuadorean immigrants cried alone in her car. A Texas lawyer bought a gun to defend his family.
+        For a number of Latinos across the United States, the shooting attack in El Paso felt like a turning point, calling into question everything they thought they knew about their place in American society.
+        Whether they are liberal or conservative, speakers of English or Spanish, recent immigrants or descenants or pioneers who put down stakes in the Southwest 400 years ago,
+         many Latinos in interviews this week said they felt deeply shaken at the idea that radicalized white nationalism seemed to have placed them - at east for one bloody weekend - in its cross hairs." <a href="https://www.nytimes.com/2019/08/06/us/el-paso-shooting-latino-anxiety.html"> [ ... ]</a></right></p>
+    </div>
+    <hr>
+    <div class="seven">
+      <h3><left><img src="https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/06/PRI_71365181.jpg?quality=90&strip=all&zoom=1&resize=964%2C642&ssl=1" width=400 height=250></left></h3>
+      <h2><u><left> Three Children and One Woman Found Dead Along US-Mexico Border :</left></u></h2>
+      <p><left> "The bodies of what appeared to be a migrant woman in her 20s and three young children have been found near the US border with Mexico, authorities said. Migrant deaths happen with grim regularity along the southwestern US border,
+        usually when adults and unaccompanied teenagers succumb to harsh desert conditions or a lack of water. They often die of dehydration, heat stroke or hypothermia.
+        However, the discovery of the two infants and a toddler on Sunday was unusual -  it is rare for officials to find dead migrant children on the US side of the border and rarer still for their bodies to be found together." <a href="https://www.independent.co.uk/news/world/americas/us-mexico-border-deaths-children-migrant-texas-rio-grande-a8973436.html"> [ ... ]</a><left></p>
+    </div>
+    <hr>
+    <div class="eight">
+      <h3><right><img src="https://storage.googleapis.com/afs-prod/media/5380505e7d544e67a03b36866575ead8/1000.jpeg" width=400 height=250></right></h3>
+      <h2><u><right>Largest US Immigration Raids in a Decade Net 680 Arrests :</right></u></h2>
+      <h3><right> "MORTON, Miss. (AP) - U.S immigration officials raided seven Mississippi chicken processing plants Wednesday, arresting 680 mostly Latino workers in the largest
+        workplace string in at least a decade. The raids, planned months ago, happened just hours before President Donald Trump visited El Paso, Texas, the majority-Latino border city where
+        a man linked to an online screed about a "Hispanic invasion" was charged in a shooting that left 22 people dead." <a href="https://www.apnews.com/bbcef8ddae4e4303983c91880559cf23"> [ ... ]</a></right></h3>
+    </div>
+    <hr>
+    <div class="nine">
+      <h3><left><img src="https://static01.nyt.com/images/2019/07/14/us/14iceraids-02alt/14iceraids-02alt-superJumbo.jpg?quality=90&auto=webp" width=400 height=250></left></h3>
+      <h2><u><left>ICE Launches Raids Targeting Migrant Families :</left></u></h2>
+      <p><left> "A small numver of coordinated federal raids targeting undocumented migrant parents and their children took place over the weekend,
+        the beginning of the Trump administration's plan to swiftly enforce deportation orders against some 2,000 recently arrived migrants who are not
+        eligible to remain in the country. Only a handful of arrests appeared to take place, and they were reported in just a few cities. That was much different than the nationwide
+        show of force that had originally benn planned, in which Immigration and Customs Enforcement agents were expected to fan out in unison on Sunday morning across immigrant communities in major cities. But the authorities said that more arrests would follow through the week." <a href="https://www.nytimes.com/2019/07/14/us/ice-immigration-raids.html"> [ ... ]</a></left></p>
+    </div>
+    <hr>
+    <div class="ten">
+      <h3><right><img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/migrant-1528990494.jpg?crop=1.00xw:0.754xh;0,0&resize=480:*" width=400 height=250></right></h3>
+      <h2><u><right> 900 Migrant Children Separated From Parents Despite Court Order, ACLU Says : </right></u></h2>
+      <p><right> "Washington - The American Civil Liberties Union (ACLU) on Tuesday said the federal government continues to "systematically" separate migrant children from their parents, accusing the Trump administration of violating a court order prohibiting officials from separating families unless in extraordinary
+        circumstances where the children are in danger. In a court filing in the U.S District of Southern California, the ACLU said the administration has focibly separated more than 900 migrant children in the U.S custody from their parents
+        since one of the court's judges, Dana Sabraw, ordred the government to halt its controversial "zero tolerance" policy in June 2018.
+        Along with instructing the administration to reunite all separated families, Sabraw decreed that families should not be separated "absent a determination that the parent is unfit or presents a danger to the child." <a href="https://www.cbsnews.com/news/family-separation-policy-900-migrant-children-have-been-separated-from-parents-despite-court-order-aclu-says/"> [ ... ]</a></right></p>
+    </div>
+    <hr>
+    <div class="eleven">
+      <h3><left><img src="https://compote.slate.com/images/c43edd8a-dd31-4468-b88c-cb2b98d406f4.jpeg?width=780&height=520&rect=1560x1040&offset=0x0" width= 400 height=250></left></h3>
+      <h2><left><u> Doctors Call for Investigation After 3 Migrant Children in Custody Die of Flu :</u></left></h2>
+      <p><left> "Doctors associated with Harvard and Johns Hopkins called for an investigation into health care at border facilities in a letter to members of Congress Thursday. The letter comes in
+        response to the deather of six migrant children either in government custody or soon after their release.
+        <br>
+        At lease three of the children died from the flu, according to the autopsies. The doctors wrote in their letter that flu deather "are fairly rare events for children living in the United States." Domestically, the U.S experiences a rate of about one flu death per 600,000 children, according to the doctors.
+        Among migrants children in custody, the numbers are far higher, they wrote." <a href="https://www.cbsnews.com/news/doctors-call-for-investigation-after-3-migrant-children-in-custody-die-of-flu/?intcid=CNI-00-10aaa3a"> [ ... ]</a></left></p>
+    </div>
+    <hr>
+    <div class="twelve">
+      <h3><right><img src="https://s.abcnews.com/images/WNT/190808_wn_carr_635_hpMain_16x9_992.jpg" width=400 height=250></right></h3>
+      <h2><u><right> ICE Rounds Up Hundreds of Undocumented Workers in Immigration Sweeps in Mississippi :</right></u></h2>
+      <p><right> "U.S immigration authorities on Wednesday rounded up hundreds of undocumented workers in food processing plants during a sprawling operation in Mississippi that officials touted as the largest immigration enforcement sweep in a single state in U.S history.
+        <br>
+        By targeting workplaces across six different cities in southern Mississippi, Immigration and Customs and Enforcement (ICE) agents, with the help of the local district attorney's office, apprehended 680 undocumented immigrants.
+        At a press conference on Wednesday afternoon, U.S Attorney for the Southern District of Mississippi Mike Hurst said the large-scale raids collectively represented "the largest single state immigration enforcement operation in our nation's history."" <a href="https://www.cbsnews.com/news/ice-raids-in-mississippi-officials-tout-largest-single-state-immigration-sweeps-in-us-history-today-2019-08-07/"> [ ... ] </a></right></p>
+    </div>
+    <hr>
+    <div class="thirteen">
+      <h3><left><img src="https://www.10tv.com/sites/default/files/styles/article_image/public/2019/06/21/inhumaneconditionselpasoborder.jpg?itok=k5WLQQkG" width=400 height=250 ></left></h3>
+      <h2><left><u> 250 Children Living Under Inhumane Conditions at Texas Border Facility, Doctors and Attorneys Say :</u></left></h2>
+      <p><left> "Doctors and attorneys say hundreds of young people are living under inhumane conditions at a border control station in Clint, Texas. They say they found about 250 infants, children and teens locked up for weeks without adequate food, water and sanitation.
+        A researcher told "CBS This Morning" that at the Clint facility, about 20 miles southeast of El Paso, more than a dozen children had the flu, and that some were in quarantine cells without adult supervision. The researcher added that young girls were taking care of a sick two-year-old boy who was in filthy clothing without a diaper,
+         and that children said they were fed uncooked frozen food and had gone weeks without bathing. CBS News reached out to immigration officials, and has not yet heard back.
+         Apprehensions in the El Paso border area have spiked more than 600% since last year. In May, the Office of the inspector General pointed to dangerous overcrowding at the El Paso facility, showing migrants packed into holding cells." <a href="https://www.cbsnews.com/news/children-at-border-facility-children-living-inhumane-conditions-texas-border-facility-doctors-attorneys-say/"> [ ... ]</a></left></p>
+    </div>
+    </body>
+    </html>
   <div class="seven">
     <h3><left><img src="https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/06/PRI_71365181.jpg?quality=90&strip=all&zoom=1&resize=964%2C642&ssl=1" width=400 height=250></left></h3>
     <h2><u><left> Three Children and One Woman Found Dead Along US-Mexico Border :</left></u></h2>

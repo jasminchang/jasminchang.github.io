@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <link rel = "stylesheet" href="css">
+  <link rel = "stylesheet" href="css.css">
   <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Hammersmith+One|Playfair+Display|Prata&display=swap" rel="stylesheet">
   <head>
     <title>Unify</title>
@@ -12,11 +12,11 @@
       <nav>
         <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="resources">Resources</a>
-        <li><a href="beAnAlly">Be an Ally</a></li>
-        <li><a href="current events">Current Events</a></li>
-        <li><a href="acknowledgements">Acknowledgements</a></li>
-        <li><a href="sources">Sources</a></li>
+        <li><a href="resources.html">Resources</a>
+        <li><a href="beAnAlly.html">Be an Ally</a></li>
+        <li><a href="currentevents.html">Current Events</a></li>
+        <li><a href="acknowledgements.html">Acknowledgements</a></li>
+        <li><a href="sources.html">Sources</a></li>
       </ul>
     </nav>
   </div>

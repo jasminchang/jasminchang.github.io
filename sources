@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <link rel = "stylesheet" href="unify.css">
+  <link rel = "stylesheet" href="css">
   <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Hammersmith+One|Playfair+Display|Prata&display=swap" rel="stylesheet">
   <head>
     <title>Unify</title>
@@ -10,20 +10,13 @@
       <div class="container">
         <h1 class="logo">UNIFY</h1>
       <nav>
-        <ul>
-        <li><a href="unify.html">Home</a></li>
-        <li><a href="unifyResources.html">Resources</a>
-          <ul>
-            <li><a href="#rights">Your Rights</a></li>
-            <li><a href="#govresources">Government Resources</a></li>
-            <li><a href="#communityhelp">Community Help</a></li>
-            <li><a href="#citizenprocess">Citizenship</a></li>
-          </ul>
-        </li>
-        <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
-        <li><a href="unifyCurrentEvents.html">Current Events</a></li>
-        <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
-        <li><a href="unifySources.html">Sources</a></li>
+         <ul>
+        <li><a href="homepage">Home</a></li>
+        <li><a href="resources">Resources</a>
+        <li><a href="beAnAlly">Be an Ally</a></li>
+        <li><a href="current events">Current Events</a></li>
+        <li><a href="acknowledgements">Acknowledgements</a></li>
+        <li><a href="sources">Sources</a></li>
       </ul>
     </nav>
   </div>

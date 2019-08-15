@@ -11,16 +11,9 @@
       <div class="container">
         <h1 class="logo">UNIFY</h1>
       <nav>
-        <ul>
+       <ul>
         <li><a href="homepage">Home</a></li>
         <li><a href="resources">Resources</a>
-          <ul>
-            <li><a href="#rights">Your Rights</a></li>
-            <li><a href="#govresources">Government Resources</a></li>
-            <li><a href="#communityhelp">Community Help</a></li>
-            <li><a href="#citizenprocess">Citizenship</a></li>
-          </ul>
-        </li>
         <li><a href="beAnAlly">Be an Ally</a></li>
         <li><a href="current events">Current Events</a></li>
         <li><a href="acknowledgements">Acknowledgements</a></li>

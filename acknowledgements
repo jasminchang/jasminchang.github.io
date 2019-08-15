@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <link rel = "stylesheet" href="Acknowledgments.css">
+  <link rel = "stylesheet" href="css">
   <link href="https://fonts.googleapis.com/css?family=DM+Serif+Text|Prata&display=swap" rel="stylesheet">
   <head>
     <title>Unify</title>
@@ -11,19 +11,12 @@
         <h1 class="logo">UNIFY</h1>
       <nav>
         <ul>
-        <li><a href="Unify.html">Home</a></li>
-        <li><a href="Resources.html">Resources</a>
-          <ul>
-            <li><a href="#rights">Your Rights</a></li>
-            <li><a href="#govresources">Government Resources</a></li>
-            <li><a href="#communityhelp">Community Help</a></li>
-            <li><a href="#citizenprocess">Citizenship</a></li>
-          </ul>
-        </li>
-        <li><a href="beAnAlly.html">Be an Ally</a></li>
-        <li><a href="currentEvents.html">Current Events</a></li>
-        <li><a href="Acknowledgements.html">Acknowledgements</a></li>
-        <li><a href="Sources.html">Sources</a></li>
+        <li><a href="homepage">Home</a></li>
+        <li><a href="resources">Resources</a>
+        <li><a href="beAnAlly">Be an Ally</a></li>
+        <li><a href="current events">Current Events</a></li>
+        <li><a href="acknowledgements">Acknowledgements</a></li>
+        <li><a href="sources">Sources</a></li>
       </ul>
     </nav>
   </div>
